@@ -148,7 +148,7 @@ function App() {
             ascent={"#f0e6d5"}
             src={construction}
             title={"Construction Monitoring System"}
-            description={"A place where you can add and find campground."}
+            description={"A platform enabling real-time construction progress"}
             tags={["User Interface", "Wireframing"]}
             alternate={true}
             site={"https://www.behance.net/gallery/212746439/Construction-Monitoring-System"}
@@ -157,7 +157,7 @@ function App() {
             ascent={"#e6f7e8"}
             src={plantifyImg}
             title={"Plantify"}
-            description={"A place where you can add and find campground."}
+            description={"Online Marketplace for plants and Gradening accessories."}
             tags={["User Research", "Wireframing", "Prototype"]}
             site={"https://www.behance.net/gallery/207497449/Plantify-Online-Platform-for-the-plant-lovers"}
           />
