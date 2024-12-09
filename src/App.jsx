@@ -83,7 +83,7 @@ function App() {
             Hello 👋🏻
           </div>
           <div className="text-4xl md:text-5xl lg:text-6xl text-center w-full leading-snug">
-            I'm User Experience Designer,
+            I'm User Interface Designer,
             <br />
             who Crafting Digital Experiences
           </div>
@@ -102,7 +102,7 @@ function App() {
 
           <div className="space-y-5 lg:space-y-10">
             <TextFade className="w-full flex justify-center items-center gap-2 md:gap-5 lg:gap-10">
-              <SkillContainer text="UI/UX Design" />
+              <SkillContainer text="UI Design" />
               <SkillContainer text="Wireframing / Protyping" />
               <SkillContainer text="Design System" />
             </TextFade>
